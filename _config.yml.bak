@@ -6,14 +6,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: beNice17 theme # Title of your Website. Eg: Viet Anh's Website
-email: beNice17@vietanhdev.com # Your email
-contact-email: beNice17@vietanhdev.com # Email for contact page. Can be your email.
-author: Viet Anh Nguyen
+title: myPage # Title of your Website. Eg: Viet Anh's Website
+email: none@fornow # Your email
+contact-email: none@fornow # Email for contact page. Can be your email.
+author: code-Bakk3r
 description: > # this means to ignore newlines until "baseurl:"
-  beNice17 is a Jekyll theme. Suitable for personal Websites & Blogs.
-url: "https://vietanhdev.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/beNice17" # the subpath of your site, e.g. /blog
+  some page i found
+  
+url: "code.bakk3r.de" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 includes_dir: .
 
@@ -22,7 +23,7 @@ shareimg: assets/images/sharing-imgs/beNice17.jpg # default sharing img
 bigimg: images/patterns/triangular.png # default big img (header image(s))
 fb_app_id: 12345 # Facebook app id
 
-timezone: "+0700"
+timezone: "+0100"
 permalink: posts/:title.html
 
 # Build settings
